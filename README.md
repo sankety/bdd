@@ -15,7 +15,7 @@ goto angular8/killerapp
 1. ` npm install `
 2. ` ng e2e `
 3. If your into issues like `No update-config.json found. Run 'webdriver-manager update' to download binaries.` then run this command
-`node node_modules\protractor\bin\webdriver-manager update` and run step 2 again.
+`node node_modules\protractor\bin\webdriver-manager update` and run step 2 again. (For linux `node node_modules/protractor/bin/webdriver-manager update`)
 
 All the prerequisite are same as the actual angular application, for more details visit https://angular.io  
     
